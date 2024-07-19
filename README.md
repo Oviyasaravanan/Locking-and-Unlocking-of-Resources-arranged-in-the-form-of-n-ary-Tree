@@ -120,4 +120,3 @@ public class GFG {
 	}
 }
 
-// This code is contributed by Snigdha Patil
